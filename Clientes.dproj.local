@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/08 14:52:00.000.570,=C:\Users\picel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/08 15:44:53.000.480,C:\Users\picel\Documents\Embarcadero\Studio\Projects\Teste\uClientes.dfm=C:\Users\picel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/06/08 15:44:53.000.480,C:\Users\picel\Documents\Embarcadero\Studio\Projects\Teste\uClientes.pas=C:\Users\picel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/08 15:44:57.000.790,C:\Users\picel\Documents\Embarcadero\Studio\Projects\Teste\Clientes.dproj=C:\Users\picel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/06/09 00:54:38.000.144,=C:\Users\picel\Documents\Embarcadero\Studio\Projects\Teste\Unit1.pas</Transaction>
+    <Transaction>2020/06/09 00:59:20.000.106,C:\Users\picel\Documents\Embarcadero\Studio\Projects\Teste\Unit1.pas=C:\Users\picel\Documents\Embarcadero\Studio\Projects\Teste\uDataModulo.pas</Transaction>
+    <Transaction>2020/06/09 00:59:20.000.106,C:\Users\picel\Documents\Embarcadero\Studio\Projects\Teste\Unit1.dfm=C:\Users\picel\Documents\Embarcadero\Studio\Projects\Teste\uDataModulo.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
